@@ -1,0 +1,19 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\bin\Debug\model.entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\bin\Debug\model.entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\obj\Debug\model.entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\crud_mvc5\model.entity\obj\Debug\model.entity.pdb
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\bin\Debug\model.entity.dll
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\bin\Debug\model.entity.pdb
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.csprojAssemblyReference.cache
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.csproj.CoreCompileInputs.cache
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.dll
+D:\Users\camil\Downloads\CRUD-MVC-5-master\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.pdb
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\bin\Debug\model.entity.dll.config
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\bin\Debug\model.entity.dll
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\bin\Debug\model.entity.pdb
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.csproj.CopyComplete
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.dll
+C:\Users\camil\source\repos\CRUD-MVC-5-master\model.entity\obj\Debug\model.entity.pdb
